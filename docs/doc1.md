@@ -1,7 +1,6 @@
 ---
-id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+id: into
+title: Introdução
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
@@ -108,12 +107,6 @@ print s
 ```
 No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
-```
-
-```js {2}
-function highlightMe() {
-  console.log('This line can be highlighted!');
-}
 ```
 
 ---

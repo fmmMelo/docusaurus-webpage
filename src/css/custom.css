@@ -1,0 +1,33 @@
+
+:root {
+  --ifm-color-primary: #81c784;
+}
+
+.perfil-links a
+{
+  color: #fff;
+  margin-right: 8px;
+  border-radius: 2px;
+  font-size: 1.2rem;
+  padding: 8px;
+  background: #78909c;
+  transition: 0.7s ease;
+}
+
+.perfil-links a:hover
+{
+  border-radius: 6px;
+  transition: 0.7s ease;
+  text-decoration: none;
+}
+
+.container-perfil
+{
+  padding: 10rem 0rem 10rem 31rem;
+}
+
+img
+{
+  border-radius: 50%;
+  max-width: 96px;
+}
